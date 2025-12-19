@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+mlruns/
+models/training_results.json
+models/monitoring_log.json
+*.log
+.DS_Store
