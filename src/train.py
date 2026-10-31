@@ -2,8 +2,9 @@
 src/train.py
 -------------
 Model training pipeline with MLflow experiment tracking,
-hyperparameter tuning, and model registry integration.
-Dataset: UCI Heart Disease (loaded via sklearn/fetch or CSV fallback).
+cross-validation, and model registry integration.
+Dataset: data/churn_data.csv if present, otherwise a synthetic churn dataset
+(10,000 rows x 15 features via sklearn make_classification).
 """
 
 from __future__ import annotations

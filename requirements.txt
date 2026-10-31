@@ -6,3 +6,4 @@ fastapi==0.112.0
 uvicorn==0.30.6
 pydantic==2.8.2
 pytest==8.3.2
+setuptools<70
