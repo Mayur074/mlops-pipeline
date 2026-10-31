@@ -6,7 +6,7 @@ End-to-end **MLOps pipeline** for classification model development, experiment t
 ![MLflow](https://img.shields.io/badge/MLflow-2.15-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.112-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
-![CI](https://github.com/yourgithub/mlops-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Mayur074/mlops-pipeline/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -52,7 +52,7 @@ Monitoring Layer
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourgithub/mlops-pipeline.git
+git clone https://github.com/Mayur074/mlops-pipeline.git
 cd mlops-pipeline
 pip install -r requirements.txt
 
